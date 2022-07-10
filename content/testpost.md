@@ -1,8 +1,10 @@
 Title: Test Blog Post
-Date: 2022-07-08
+Date: 2022-07-10
 Tags: Test, Blog
-Summary: A test blog post for Oliver
+Summary: The summary is not shown in the full page
 
 ## Header 2
 
-This is a test blog post.
+And here it the content of the page. I can do **bold**!  
+
+This is another sentence.
