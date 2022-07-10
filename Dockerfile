@@ -38,6 +38,6 @@ RUN mkdir /website/plugins \
 
 # bust the cache
 WORKDIR /website
-# COPY pelicanconf.py /website/
-# COPY publishconf.py /website/
-# COPY Makefile /website/
+COPY pelicanconf.py /website/
+COPY publishconf.py /website/
+COPY Makefile /website/
